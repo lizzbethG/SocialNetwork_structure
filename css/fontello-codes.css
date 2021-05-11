@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+ 
+.icon-play:before { content: '\25b6'; } /* '▶' */
+.icon-users:before { content: '\266b'; } /* '♫' */
+.icon-mail:before { content: '\2709'; } /* '✉' */
+.icon-chat:before { content: '\e720'; } /* '' */
+.icon-thumbs-down:before { content: '\e807'; } /* '' */
+.icon-music:before { content: '\e808'; } /* '' */
+.icon-menu:before { content: '\f0c9'; } /* '' */
+.icon-bell-alt:before { content: '\f0f3'; } /* '' */
+.icon-doc-text:before { content: '\f0f6'; } /* '' */
+.icon-file-image:before { content: '\f1c5'; } /* '' */
+.icon-thumbs-up:before { content: '👍'; } /* '\1f44d' */
+.icon-art-gallery:before { content: '👎'; } /* '\1f44e' */
+.icon-search:before { content: '🔍'; } /* '\1f50d' */
